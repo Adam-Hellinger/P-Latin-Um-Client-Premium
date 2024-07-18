@@ -1,0 +1,52 @@
+{
+"Active Indicative":{
+    "Active Present":{
+        "1st singular": "o",
+        "2nd singular": "as",
+        "3rd singular": "at",
+        "1st plural": "amus",
+        "2nd plural": "atis",
+        "3rd plural": "ant"
+    },
+    "Active Imperfect":{
+        "1st singular": "abam",
+        "2nd singular": "abas",
+        "3rd singular": "abat",
+        "1st plural": "abamus",
+        "2nd plural": "abatis",
+        "3rd plural": "abant"
+    },
+    "Active Future":{
+        "1st singular": "abo",
+        "2nd singular": "abis",
+        "3rd singular": "abit",
+        "1st plural":  "abimus",
+        "2nd plural": "abitis",
+        "3rd plural": "abunt"
+    },
+    "Active Perfect":{
+        "1st singular": "i",
+        "2nd singular": "isti",
+        "3rd singular": "it",
+        "1st plural": "imus",
+        "2nd plural": "istis",
+        "3rd plural": "erunt"
+    },
+    "Active Pluperfect":{
+        "1st singular": "eram",
+        "2nd singular": "eras",
+        "3rd singular": "erat",
+        "1st plural": "eramus",
+        "2nd plural": "eratis",
+        "3rd plural": "erant"
+    },
+    "Active Future Pluperfect":{
+        "1st singular": "ero",
+        "2nd singular": "eris",
+        "3rd singular": "erit",
+        "1st plural":  "erimus",
+        "2nd plural": "eritis",
+        "3rd plural": "erint"
+        }
+  }
+}
